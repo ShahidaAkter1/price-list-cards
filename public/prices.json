@@ -1,0 +1,26 @@
+[  {    "id": 1,    "name": "Basic Membership",    "price": 29.99,    "featureList": [      "Cardio",      "Weight Machines",      "1 Fitness Consult"    ]
+  },
+  {
+    "id": 2,
+    "name": "Plus Membership",
+    "price": 49.99,
+    "featureList": [
+      "Cardio",
+      "Weight Machines",
+      "Unlimited Classes",
+      "2 Fitness Consults"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "price": 79.99,
+    "featureList": [
+      "Cardio",
+      "Weight Machines",
+      "Unlimited Classes",
+      "Unlimited Consults",
+      "1 Personal Training"
+    ]
+  }
+]
